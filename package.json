@@ -1,0 +1,9 @@
+{
+  "name": "abc2",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ABC2 web hub with a home tab and DuckMath games tab",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.21.2" }
+}
